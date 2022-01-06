@@ -1,1 +1,1 @@
-# SokoLoco3D
+# SokoLoco
